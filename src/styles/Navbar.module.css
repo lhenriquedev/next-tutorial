@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  gap: 16px;
+  list-style: none;
+  background: #000;
+  padding: 20px;
+
+  color: #fff;
+}
+
+.navbar a:hover {
+  color: #949090;
+}
